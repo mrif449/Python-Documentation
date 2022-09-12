@@ -10,11 +10,11 @@
 3. Iteration
 
 4. String Functions
-  
+
 5.Data Structure I (String, List, Tuple)
-  
+
 6.Data Structure II (Dictionary)
-  
+
 7.Function
 
 8. Scope
