@@ -1,16 +1,16 @@
 # Python Documentation
 ## List of Chapters
 <details>
-<summary>##1. Basic</summary>
-    ### i. Data types, Values, Variables and Operators
-   ### ii. Branching
-  ### iii. Iteration
-   ### iv. String Functions
-    ### v. Data Structure I (String, List, Tuple)
-   ### vi. Data Structure II (Dictionary)
-  ### vii. Function
-   ### ix. Scope
-    ### x. File IO
+<summary>1. Basic</summary>
+    1. Data types, Values, Variables and Operators
+    2. Branching
+    3. Iteration
+    4. String Functions
+    5.Data Structure I (String, List, Tuple)
+    6.Data Structure II (Dictionary)
+    7.Function
+    8. Scope
+    9. File IO
 </details>
 <details>
 <summary>2. Object Oriented Programming (OOP)</summary>
