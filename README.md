@@ -2,7 +2,7 @@
 ## List of Chapters
 <details>
 <summary>1. Basic</summary>
-    *Data types, Values and Variables
+    * Data types, Values and Variables
     
 </details>
 <details>
