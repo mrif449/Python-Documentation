@@ -137,7 +137,7 @@ Here the "name" is the variable and "Md. Rahadul Islam Fardin" is the value of t
     **Example:**
     <img align=center src="./images/unary minus.png" width="100%"/>
 
-    3. <u>Unary ~(invert):</u> We use unary - (invert) operation by adding a ‘~’ before a variable or data. It produces a bitwise inverse of a given data. Simply, for any data x, a bitwise inverse is defined in python as -(x+1). (Works with int, and boolean. For booleans, True and False will be valued as 1 and 0 respectively.)
+    3. <u>Unary ~ (invert):</u> We use unary - (invert) operation by adding a ‘~’ before a variable or data. It produces a bitwise inverse of a given data. Simply, for any data x, a bitwise inverse is defined in python as -(x+1). (Works with int, and boolean. For booleans, True and False will be valued as 1 and 0 respectively.)
 
     **Example:**
     <img align=center src="./images/unary invert.png" width="100%"/>
@@ -147,5 +147,49 @@ and etc. The values or the variables the operator works on are called Operands.(
 
     **Example:**
     <img align=center src="./images/arithmetic operation.png" width="100%"/>
-    
+
     <img align=center src="./images/other arithmatic operation.png" width="100%"/>
+    
+    2. <u>Assignment Operator:</u>
+        
+        1. =(assign): It is used for putting value from the right side of the equal sign(=) to a variable on the left side of the equal sign(=).
+
+        **Example:** ``` number = 123```
+        
+        2. Compound Assignment Operators:
+            
+            1. += (add & assign)
+            2. -= (subtract & assign)
+            3. *= (multiply & assign)
+            4. /= (divide & assign)
+            5. %= (modulus & assign)
+            6. **= (exponent & assign)
+            7. //= (floor division & assign)
+
+        **Example:**
+        <img align=center src="./images/compound assignment operator.png" width="100%"/>
+
+    3. <u>Logical Operator:</u> These operators mainly used on conditions, loops and many other places.
+        1. and (Logical AND): If all the statements are True, then the operation will be executed.
+        2. or (Logical OR): If one of the statements are True, then the operation will be executed.
+        3. not (Logical NOT): If the statement is not True, then the operation will be executed.
+         
+        **Note:** More details will be discussed on Branching.
+    4. <u>Membership Operator:</u> Returns Boolean as output. It is used as condition.
+        1. in: Returns True, if the value is present on elements. Otherwise, returns False.
+        2. not in: Returns True, if the value is **not** present on elements. Otherwise, returns False.
+
+        **Example:**
+        <img align=center src="./images/membership operator.png" width="100%"/>
+    5. <u>Identity Operators:</u> These operators also returns boolean like Membership oprators.
+        1. is: Returns True if the first value is identical or the same as the second value. Otherwise, returns False.
+        2. is not: Returns True if the first value is **not** identical or the same as the second value. Otherwise returns False.
+
+        **Example:**
+        <img align=center src="./images/identity operator.png" width="100%"/>
+    6. <u>Bitwise Operator:</u> Not used in basic coding. Will be discussed later(if necessary).
+        1. & (Bitwise and)
+        2. | (Bitwise or)
+        3. ^ (Bitwise 1's complement)
+        4. << (Bitwise left-shift)
+        5. >> (Bitwise right-shift)
