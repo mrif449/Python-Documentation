@@ -188,8 +188,8 @@ and etc. The values or the variables the operator works on are called Operands.(
         **Example:**
         <img align=center src="./images/identity operator.png" width="100%"/>
     6. <u>Bitwise Operator:</u> Not used in basic coding. Will be discussed later(if necessary).
-        1. & (Bitwise and)
-        2. | (Bitwise or)
-        3. ^ (Bitwise 1's complement)
-        4. << (Bitwise left-shift)
-        5. >> (Bitwise right-shift)
+        1. "&" (Bitwise and)
+        2. "|" (Bitwise or)
+        3. "^" (Bitwise 1's complement)
+        4. "<<" (Bitwise left-shift)
+        5. ">>" (Bitwise right-shift)
