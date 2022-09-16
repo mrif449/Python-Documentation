@@ -70,7 +70,7 @@
         **Note:** One tuple can have more than one data type inside it. A tuple can be stored inside another list, which is called nested tuple. More will be discussed later
 4. <u>**Mapping:**</u>
     
-    **Dictionary:** Dictionary. Dictionaries are used to store data values in key:value pairs. A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
+    **Dictionary:** Dictionaries are used to store data values in key:value pairs. A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
 
     ```
     thisdict = {"Language": "Python","Founder": "Guido van Rossum","year": 1991}
@@ -99,8 +99,35 @@ print(type("Python is easier than C++"))
 ```
 print(type(1991))
 ```
-
 <img align=center src="./images/type function.png" width="100%"/>
+
+3. **Take any Input:** Python uses a built is function "python()" to show any output. We basically take 3 types of input in python.
+
+    1. <u>String:</u> To take string as input in Python, we can directly use input() funciton.
+        
+        **Example:**
+        ```
+        name = input("Enter a Progamming Language Name: ")
+        print(name)
+        ```
+        <img align=center src="./images/input str.png" width="100%"/>
+    
+    2. <u>Integer:</u> To take integer as input in Python, we use input() funciton and then we put that input function inside another built in function int().
+
+        **Example:**
+        ```
+        year = int(input("Enter your birth year: "))
+        print(name)
+        ```
+        <img align=center src="./images/input int.png" width="100%"/>
+    3. <u>Float:</u> To take float as input in Python, we use input() funciton and then we put that input function inside another built in function float().
+
+        **Example:**
+        ```
+        marks = float(input("Enter your marks: "))
+        print(marks)
+        ```
+        <img align=center src="./images/input float.png" width="100%"/>
 
 ### **<u>Variable</u>**
 A variable is a symbolic name that stores any type of data in Python. After assigning a variable to the data, that data can be called or used by the variable name.
@@ -193,3 +220,22 @@ and etc. The values or the variables the operator works on are called Operands.(
         3. "^" (Bitwise 1's complement)
         4. "<<" (Bitwise left-shift)
         5. ">>" (Bitwise right-shift)
+
+### <u>**Type Conversion:**</u> Datatypes can be modified in 2 ways.
+1. <u>Implicit Type Conversion:</u> If any of the operands are floating-point, then arithmetic operation yields a floating- point value. If the result was integer instead of floating-point, then removal of the fractional part would lead to the loss of information.
+
+    **Example:** 
+    <img align=center src="./images/implicit type conversion.png" width="100%"/>
+
+2. <u>Explicit Type Conversion:</u> Conversion among different data types are possible by using type conversion functions, though there are few restrictions. Python has several functions for this purpose among them these 3 are most used:
+    
+    1. <u>String -> str():</u> It constructs a string from various data types such as strings, integer numbers and float-point numbers.
+
+        **Example:**
+        <img align=center src="./images/explicit type conversion str.png" width="100%"/>
+    2. <u>Integer -> int():</u> constructs an integer number from various data types such as strings ( the input string has to consist of numbers without any decimal points, basically whole numbers), and float-point numbers (by rounding up to a whole number, basically it truncates the decimal part).
+        **Example:**
+        <img align=center src="./images/explicit type conversion int.png" width="100%"/>
+    3. <u>Float -> float():</u> This constructs a floating-point number from various data types such as integer numbers, and strings (the input string has to be a whole number or a floating point number).
+        **Example:**
+        <img align=center src="./images/explicit type conversion float.png" width="100%"/>
