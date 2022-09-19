@@ -282,7 +282,7 @@ Comparison operators are basically used for writing conditional statements. They
 
     **Flowchart:**
 
-    <img src="./images/23. conditonal statement flowchart.png" width="100%"/>
+    <img src="./images/23. conditonal statement flowchart.png" width="60%"/>
 
 ### <u>Indentation:</u>
 Indentation means leading whitespace (spaces and tabs) at the beginning of a particular line of code. It is basically used for grouping a section of code. A particular section or bundle of code is called “Block”. For example, in the previous flowchart, “True block” holds a section of code, which will only be executed if the condition yields True and “False block” holds a section of code, which will only be executed if the condition yields False. So, for blocking or in more general terms for paragraphing one or multiple lines, we use indentations.
@@ -303,7 +303,7 @@ Indentation means leading whitespace (spaces and tabs) at the beginning of a par
     ```
     **Example:**
 
-    <img src="./images/24. basic conditional statement.png" width="100%"/>
+    <img src="./images/24. basic conditional statement.png" width="100%">
 
 2. <u>Unary Selection (Omitting the else Clause):</u> When the condition evaluates to True, the True block is executed and the else and False block is completely excluded.
     
@@ -315,6 +315,10 @@ Indentation means leading whitespace (spaces and tabs) at the beginning of a par
         #codes inside True block
     #codes outside True block
     ```
+    **Flowchart:**
+    
+    <p align = center ><img src="./images/25. unary selection flowchart.png" width="40%"/></p>
+
     **Example:**
     
-    <img src="./images/25. unary selection flowchart.png" width="100%"/>
+    <img src="./images/26. unary selection.png" width="100%"/></p>
