@@ -90,7 +90,7 @@ print("Rahadul Islam")
 ```
 print(123)
 ```
-<img align=center src="./images/print statement.png" width="100%"/>
+<img src="./images/1. print statement.png" width="100%"/>
 
 2. **Datatype Cheking:** Python uses a built is function "type()" to check what type of data is provided inside the function.
 ```
@@ -99,7 +99,7 @@ print(type("Python is easier than C++"))
 ```
 print(type(1991))
 ```
-<img align=center src="./images/type function.png" width="100%"/>
+<img src="./images/2. type function.png" width="100%"/>
 
 3. **Take any Input:** Python uses a built is function "python()" to show any output. We basically take 3 types of input in python.
 
@@ -110,7 +110,7 @@ print(type(1991))
         name = input("Enter a Progamming Language Name: ")
         print(name)
         ```
-        <img align=center src="./images/input str.png" width="100%"/>
+        <img src="./images/3. input str.png" width="100%"/>
     
     2. <u>Integer:</u> To take integer as input in Python, we use input() funciton and then we put that input function inside another built in function int().
 
@@ -119,7 +119,7 @@ print(type(1991))
         year = int(input("Enter your birth year: "))
         print(name)
         ```
-        <img align=center src="./images/input int.png" width="100%"/>
+        <img src="./images/4. input int.png" width="100%"/>
     3. <u>Float:</u> To take float as input in Python, we use input() funciton and then we put that input function inside another built in function float().
 
         **Example:**
@@ -127,7 +127,7 @@ print(type(1991))
         marks = float(input("Enter your marks: "))
         print(marks)
         ```
-        <img align=center src="./images/input float.png" width="100%"/>
+        <img src="./images/5. input float.png" width="100%"/>
 
 ### **<u>Variable</u>**
 A variable is a symbolic name that stores any type of data in Python. After assigning a variable to the data, that data can be called or used by the variable name.
@@ -150,32 +150,32 @@ Here the "name" is the variable and "Md. Rahadul Islam Fardin" is the value of t
 7. Variable name can not have whitespace and special signs (<u>Example:</u> +, -, !, @, $, #, %.).
 
 ### Python Reserved Keywords:
-<img align=center src="./images/reserved keyword.png" width="100%"/>
+<img src="./images/6. reserved keyword.png" width="100%"/>
 
 ### **<u>Operators</u>**
 1. **Unary operations:** 
     1. <u>Unary +(plus):</u> We use unary + (plus) operation by adding a ‘+’ before a variable or data. It does not change the data. (Works with int, float, complex, and boolean. For booleans, True and False will be valued as 1 and 0 respectively.)
 
     **Example:**
-    <img align=center src="./images/unary plus.png" width="100%"/>
+    <img src="./images/7. unary plus.png" width="100%"/>
 
     2. <u>Unary -(minus):</u> We use unary - (minus) operation by adding a ‘-’ before a variable or data. It produces the negative value of the input (equivalent to the multiplication with - 1). (Works with int, float, complex, and boolean. For booleans, True and False will be valued as 1 and 0 respectively.)
 
     **Example:**
-    <img align=center src="./images/unary minus.png" width="100%"/>
+    <img src="./images/8. unary minus.png" width="100%"/>
 
     3. <u>Unary ~ (invert):</u> We use unary - (invert) operation by adding a ‘~’ before a variable or data. It produces a bitwise inverse of a given data. Simply, for any data x, a bitwise inverse is defined in python as -(x+1). (Works with int, and boolean. For booleans, True and False will be valued as 1 and 0 respectively.)
 
     **Example:**
-    <img align=center src="./images/unary invert.png" width="100%"/>
+    <img src="./images/9. unary invert.png" width="100%"/>
 2. **Binary operations:** Operators are symbols that represent any kind of computation such as addition, subtraction,
 and etc. The values or the variables the operator works on are called Operands.(1+2) Where, 1 and 2 are operands, and + is the operator computing addition.
     1. <u>Arithmetic operation:</u> The arithmetic operations are: (+) Addition, (-) Subtraction, (*) Multiplication, (/) Division, (//) Floor Division, (%) Modulus.
 
     **Example:**
-    <img align=center src="./images/arithmetic operation.png" width="100%"/>
+    <img src="./images/10. arithmetic operation.png" width="100%"/>
 
-    <img align=center src="./images/other arithmatic operation.png" width="100%"/>
+    <img src="./images/11. other arithmatic operation.png" width="100%"/>
     
     2. <u>Assignment Operator:</u>
         
@@ -194,7 +194,7 @@ and etc. The values or the variables the operator works on are called Operands.(
             7. //= (floor division & assign)
 
         **Example:**
-        <img align=center src="./images/compound assignment operator.png" width="100%"/>
+        <img src="./images/12. compound assignment operator.png" width="100%"/>
 
     3. <u>Logical Operator:</u> These operators mainly used on conditions, loops and many other places.
         1. and (Logical AND): If all the statements are True, then the operation will be executed.
@@ -207,13 +207,13 @@ and etc. The values or the variables the operator works on are called Operands.(
         2. not in: Returns True, if the value is **not** present on elements. Otherwise, returns False.
 
         **Example:**
-        <img align=center src="./images/membership operator.png" width="100%"/>
+        <img src="./images/13. membership operator.png" width="100%"/>
     5. <u>Identity Operators:</u> These operators also returns boolean like Membership oprators.
         1. is: Returns True if the first value is identical or the same as the second value. Otherwise, returns False.
         2. is not: Returns True if the first value is **not** identical or the same as the second value. Otherwise returns False.
 
         **Example:**
-        <img align=center src="./images/identity operator.png" width="100%"/>
+        <img src="./images/14. identity operator.png" width="100%"/>
     6. <u>Bitwise Operator:</u> Not used in basic coding. Will be discussed later(if necessary).
         1. "&" (Bitwise and)
         2. "|" (Bitwise or)
@@ -225,17 +225,96 @@ and etc. The values or the variables the operator works on are called Operands.(
 1. <u>Implicit Type Conversion:</u> If any of the operands are floating-point, then arithmetic operation yields a floating- point value. If the result was integer instead of floating-point, then removal of the fractional part would lead to the loss of information.
 
     **Example:** 
-    <img align=center src="./images/implicit type conversion.png" width="100%"/>
+    <img  src="./images/15. implicit type conversion.png" width="100%"/>
 
 2. <u>Explicit Type Conversion:</u> Conversion among different data types are possible by using type conversion functions, though there are few restrictions. Python has several functions for this purpose among them these 3 are most used:
     
     1. <u>String -> str():</u> It constructs a string from various data types such as strings, integer numbers and float-point numbers.
 
         **Example:**
-        <img align=center src="./images/explicit type conversion str.png" width="100%"/>
+        <img src="./images/16. explicit type conversion str.png" width="100%"/>
     2. <u>Integer -> int():</u> constructs an integer number from various data types such as strings ( the input string has to consist of numbers without any decimal points, basically whole numbers), and float-point numbers (by rounding up to a whole number, basically it truncates the decimal part).
         **Example:**
-        <img align=center src="./images/explicit type conversion int.png" width="100%"/>
+        <img src="./images/17. explicit type conversion int.png" width="100%"/>
     3. <u>Float -> float():</u> This constructs a floating-point number from various data types such as integer numbers, and strings (the input string has to be a whole number or a floating point number).
         **Example:**
-        <img align=center src="./images/explicit type conversion float.png" width="100%"/>
+        <img src="./images/18. explicit type conversion float.png" width="100%"/>
+
+## Chapter-2: Branching
+
+### <u>**Boolean Expression:**</u> 
+In boolean expression we compare two values or two statements using the comparison operator to get the Boolean value (True/False).
+
+1. <u>Comparison Operator:</u> We have 6 types of comparison or relational operators.
+
+    1. Equal (==) : Returns True if the given two statements or values are True. Else, returns False.
+    **Note:** Single equal (=) is used for value assignment, and Double equal (==) is used for equality checker comparison operator.
+    2. Less than (<) : If the first statement or value is less than the second value than it returns True. Else, returns False.
+    3. Greater than (>): If the first statement or value is greater than the second value than it returns True. Else, returns False.
+    4. Less than Equal (<=): If the first statement or value is less  or equal than the second value than it returns True. Else, returns False.
+    5. Greater than Equal (>=): If the first statement or value is greater  or equal than the second value than it returns True. Else, returns False.
+    6. Not Equal (!=): If the two statements or values are not equal then it returns True. Else, returns False.
+
+    **Example:**
+    <img src="./images/19. comparison operator.png" width="100%"/>
+2. <u>Logical Operator:</u> We have 3 types of Logical operators.
+
+    1. and (Logical AND): The logical and returns True if all the statements are True. Else, returns False.
+    2. or (Logical OR): The logical or returns True if any one of the statements are True. Else, returns False.
+    3. not (Logical Not): Returns True, if False is given and vise versa.
+    
+    <img src="./images/20. note logical operator.png" width="100%"/>
+
+    **Example:**
+    <img src="./images/21. logical operator.png" width="100%"/>
+
+### <u>Compound Boolean Expression:</u>
+In this expression both logical and comparison operators are used together.
+
+**Example:**
+<img src="./images/22. compund logical expression.png" width="100%"/>
+
+### <u>Conditional Statements:</u>
+Comparison operators are basically used for writing conditional statements. They have 3 parts:
+1. a condition yielding in either True or False.
+2. a block of code is executed if the condition yields True.
+3. another non-mandatory block of code is executed if the condition yields False.
+
+    **Flowchart:**
+
+    <img src="./images/23. conditonal statement flowchart.png" width="100%"/>
+
+### <u>Indentation:</u>
+Indentation means leading whitespace (spaces and tabs) at the beginning of a particular line of code. It is basically used for grouping a section of code. A particular section or bundle of code is called “Block”. For example, in the previous flowchart, “True block” holds a section of code, which will only be executed if the condition yields True and “False block” holds a section of code, which will only be executed if the condition yields False. So, for blocking or in more general terms for paragraphing one or multiple lines, we use indentations.
+
+1. <u>Basic Conditional Statement:</u>
+    
+    **Code Structure:**
+    ```
+        if (condition):
+            #codes inside True block
+            True block
+            #codes inside True block
+        else:
+            #codes inside False block
+            False block
+            #codes inside False block
+        #codes outside False block
+    ```
+    **Example:**
+
+    <img src="./images/24. basic conditional statement.png" width="100%"/>
+
+2. <u>Unary Selection (Omitting the else Clause):</u> When the condition evaluates to True, the True block is executed and the else and False block is completely excluded.
+    
+    **Code Structure:**
+    ```
+    if(condition):
+        #codes inside True block
+        True block
+        #codes inside True block
+    #codes outside True block
+    ```
+    **Example:**
+    
+    <img src="./images/25. unary selection flowchart.png" width="100%"/>
