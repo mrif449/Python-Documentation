@@ -3,9 +3,9 @@
 <details>
 <summary>Basic</summary>
 
-    [1. Data types, Values, Variables and Operators](Topics/1.%20Basic/chapter1.md)
+1. [Data types, Values, Variables and Operators](Topics/1.%20Basic/chapter1.md)
 
-    [2. Branching](Topics/1.%20Basic/chapter2.md)
+2. [Branching](Topics/1.%20Basic/chapter2.md)
 
 3. Iteration
 
