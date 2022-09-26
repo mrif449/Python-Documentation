@@ -1,4 +1,4 @@
-## Chapter-1: Data types, Values, Variables and Operators
+# Chapter-1: Data types, Values, Variables and Operators
 ### **<u>Data types</u>**
 1. <u>**Numeric:** </u>
     1. **Integer** (int): Positive or negative whole numbers without any fractional part.

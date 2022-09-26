@@ -1,4 +1,4 @@
-## Chapter-2: Branching
+# Chapter-2: Branching
 
 ### <u>**Boolean Expression:**</u> 
 In boolean expression we compare two values or two statements using the comparison operator to get the Boolean value (True/False).
