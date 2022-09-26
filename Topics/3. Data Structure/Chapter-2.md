@@ -1,1 +1,1 @@
-## Chapter-2: Method & Designing Class
+## Chapter-2: Array Manipulation

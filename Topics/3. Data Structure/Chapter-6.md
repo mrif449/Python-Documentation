@@ -1,1 +1,1 @@
-# Chapter-6: Static/Class Variable
+# Chapter-6: Dummy Headed Doubly Linked Cicular List

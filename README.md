@@ -31,17 +31,17 @@
 <details>
 <summary>Data Structure</summary>
 
-1. Array-Declaration, Initialization, Traversal
-2. Array Manipulation
-3. Circular Array
-4. Linked List (Basic & Manipulation)
-5. Advanced Linked List
-6. Dummy Headed Doubly Linked Cicular List
-7. Stack
-8. Queue
-9. Recursion
-10. Memoization
-11. Searching and Sorting
+1. [Array-Declaration, Initialization, Traversal](Topics/3.%20Data%20Structure/Chapter-1.md)
+2. [Array Manipulation](Topics/3.%20Data%20Structure/Chapter-2.md)
+3. [Circular Array](Topics/3.%20Data%20Structure/Chapter-3.md)
+4. [Linked List (Basic & Manipulation)](Topics/3.%20Data%20Structure/Chapter-4.md)
+5. [Advanced Linked List](Topics/3.%20Data%20Structure/Chapter-5.md)
+6. [Dummy Headed Doubly Linked Cicular List](Topics/3.%20Data%20Structure/Chapter-6.md)
+7. [Stack](Topics/3.%20Data%20Structure/Chapter-7.md)
+8. [Queue](Topics/3.%20Data%20Structure/Chapter-8.md)
+9. [Recursion](Topics/3.%20Data%20Structure/Chapter-9.md)
+10. [Memoization](Topics/3.%20Data%20Structure/Chapter-10.md)
+11. [Searching & Sorting](Topics/3.%20Data%20Structure/Chapter-11.md)
 </details>
 <details>
 <summary>Algorithm</summary>

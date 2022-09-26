@@ -1,1 +1,1 @@
-# Chapter-7: Class Method & Static Method
+# Chapter-7: Stack
