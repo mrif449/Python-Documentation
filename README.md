@@ -30,6 +30,18 @@
 </details>
 <details>
 <summary>Data Structure</summary>
+
+1. Array-Declaration, Initialization, Traversal
+2. Array Manipulation
+3. Circular Array
+4. Linked List (Basic & Manipulation)
+5. Advanced Linked List
+6. Dummy Headed Doubly Linked Cicular List
+7. Stack
+8. Queue
+9. Recursion
+10. Memoization
+11. Searching and Sorting
 </details>
 <details>
 <summary>Algorithm</summary>
