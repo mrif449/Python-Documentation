@@ -45,6 +45,14 @@
 </details>
 <details>
 <summary>Algorithm</summary>
+
+1. [Introduction to Algorithm](Topics/4.%20Algorithm/Chapter-1.md)
+2. [Analysis of Algorithm](Topics/4.%20Algorithm/Chapter-2.md)
+3. [Searching Algorithm](Topics/4.%20Algorithm/Chapter-3.md)
+4. [Sorting Algorithm](Topics/4.%20Algorithm/Chapter-4.md)
+5. [Graph Traversal](Topics/4.%20Algorithm/Chapter-5.md)
+6. [Greedy Algorithm](Topics/4.%20Algorithm/Chapter-6.md)
+7. [Dynamic Programming](Topics/4.%20Algorithm/Chapter-7.md)
 </details>
 
 
