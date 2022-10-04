@@ -1,5 +1,6 @@
 # Chapter-1: Data types, Values, Variables and Operators
-### **<u>Data types</u>**
+[Back to main menu](../../README.md)
+## **<u>Data types</u>**
 1. <u>**Numeric:** </u>
     1. **Integer** (int): Positive or negative whole numbers without any fractional part.
     **Example:** 1,2,3,-4,-22
@@ -204,3 +205,5 @@ and etc. The values or the variables the operator works on are called Operands.(
     3. <u>Float -> float():</u> This constructs a floating-point number from various data types such as integer numbers, and strings (the input string has to be a whole number or a floating point number).
         **Example:**
         <img src="./images/18. explicit type conversion float.png" width="100%"/>
+
+[Back to main menu](../../README.md)
